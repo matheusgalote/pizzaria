@@ -59,6 +59,26 @@ blockquote {
   margin: 8px auto;
 }
 
+.misc-titles {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 40px;
+  padding-top: 20px;
+}
+
+.misc-titles:after {
+  content: "";
+  width: 100px;
+  height: 3px;
+  background: #fff;
+  display: block;
+  margin: 5px 0;
+}
+
 /* Header */
 
 .header {
@@ -289,4 +309,33 @@ blockquote {
   color: #fff;
   font-weight: bold;
   font-style: normal;
+}
+
+/* Footer */
+.footer {
+  background: #000;
+  width: 100%;
+  height: 200px;
+}
+
+.footer span {
+  color: #fff;
+  display: block;
+  padding-bottom: 10px;
+}
+
+.redes a {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.end-page {
+  width: 100%;
+  height: 50px;
+  background: #f52e00;
+}
+
+.notas {
+  text-align: center;
+  font-size: 18px;
 }

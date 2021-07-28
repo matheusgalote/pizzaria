@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80"><g fill="none" stroke="#f52e00" stroke-width="3"><rect width="80" height="80" stroke="none"/><rect x="1.5" y="1.5" width="77" height="77" fill="none"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="faceook" transform="translate(-930 -3727)">
+    <g id="facebook" transform="translate(930 3727)" fill="none" stroke="#f52e00" stroke-width="3">
+      <rect width="80" height="80" stroke="none"/>
+      <rect x="1.5" y="1.5" width="77" height="77" fill="none"/>
+    </g>
+    <path id="icon-facebook" d="M30,0A30,30,0,1,0,60,30,30,30,0,0,0,30,0Zm7.5,20H34.125c-1.345,0-1.625.552-1.625,1.945V25h5l-.522,5H32.5V47.5H25V30H20V25h5V19.23c0-4.422,2.327-6.73,7.573-6.73H37.5Z" transform="translate(940 3737)" fill="#f52e00"/>
+  </g>
+</svg>
