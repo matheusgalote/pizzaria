@@ -110,6 +110,10 @@ blockquote {
   padding: 15px 0;
 }
 
+.header_menu ul li a:hover {
+  color: #000;
+}
+
 /* Introdução */
 .intro {
   width: 100%;
@@ -292,6 +296,7 @@ blockquote {
   font-size: 14px;
   padding-top: 50px;
   color: #fff;
+  text-align: center;
 }
 .quebra blockquote p:before,
 .quebra blockquote p:after {

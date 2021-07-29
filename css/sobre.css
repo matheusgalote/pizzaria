@@ -1,0 +1,89 @@
+.intro_sobre {
+  width: 100%;
+  height: 180px;
+  background: url("../img/sobre/bg-sobre.jpg") no-repeat center;
+  background-size: cover;
+  margin-top: 92px;
+  padding-top: 60px;
+}
+
+.intro_sobre h1 {
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 48px;
+}
+
+.intro_sobre h1:after {
+  content: "";
+  width: 100px;
+  height: 3px;
+  background: #fff;
+  display: block;
+  margin: 5px auto;
+}
+
+.intro_sobre p {
+  text-align: center;
+  color: #fff;
+  padding-top: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 14px;
+}
+
+.historia h2 {
+  text-align: left;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 20px 0 20px 0;
+}
+
+.historia h2:after {
+  content: "";
+  width: 100px;
+  height: 3px;
+  background: #f52e00;
+  display: block;
+  margin: 5px 40px 0 0;
+}
+
+.historia p {
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.valores {
+  padding-left: 70px;
+}
+
+.valores h2 {
+  text-align: left;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 20px 0 20px 0;
+}
+
+.valores h2:after {
+  content: "";
+  width: 100px;
+  height: 3px;
+  background: #f52e00;
+  display: block;
+  margin: 5px 40px 0 0;
+}
+
+.dono img {
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.dono blockquote {
+  margin: 0 auto;
+  max-width: 330px;
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
