@@ -1,0 +1,35 @@
+.intro_massas {
+  background: url("../img/bg-massas.jpg") no-repeat center;
+  background-size: cover;
+  width: 100%;
+  height: 180px;
+  margin-top: 92px;
+  padding-top: 60px;
+}
+
+.intro_massas h1 {
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.intro_massas h1:after {
+  content: "";
+  width: 200px;
+  height: 3px;
+  background: #000;
+  margin: 0 auto;
+  display: block;
+}
+
+.intro_massas p {
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+  padding-top: 20px;
+}
+
+.produto {
+  padding-top: 20px;
+}
